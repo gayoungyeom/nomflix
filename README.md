@@ -9,7 +9,6 @@ Learning React and ES6 by building a Movie Discovery App.
 - Search
 - Detail
 
-
 ## API Verbs
 
 - Now playing (Movie)
@@ -19,3 +18,7 @@ Learning React and ES6 by building a Movie Discovery App.
 - Airing Today (TV)
 - Detail (TV, Movie)
 - Search (TV, Movie)
+
+## Deploy
+
+[Click!](https://practical-ardinghelli-b060a9.netlify.app/)
